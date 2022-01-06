@@ -1,6 +1,9 @@
 # bookmarks4admins
 useful bookmarks for admins<br>
 
+![grafik](https://user-images.githubusercontent.com/12609953/148400775-c63863a2-7efd-43b3-b72d-db12fbf019e4.png)
+
+
 Stand Date 06.01.2022 v.1.0<br>
 
 Google Chrome import:<br>
