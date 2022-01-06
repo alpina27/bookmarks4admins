@@ -1,29 +1,29 @@
 # bookmarks4admins
-useful bookmarks for admins
+useful bookmarks for admins<br>
 
-Stand Date 06.01.2022 v.1.0
+Stand Date 06.01.2022 v.1.0<br>
 
-Google Chrome import:
+Google Chrome import:<br>
 
-1)Bookmark Manager (CTRL+Shift+O)
-2)Click three "dots"
-3)Import Bookmark
-4)Select the html file
+1)Bookmark Manager (CTRL+Shift+O)<br>
+2)Click three "dots"<br>
+3)Import Bookmark<br>
+4)Select the html file<br>
 
-Firefox import:
-1)Bookmark Manager (CTRL+Shift+O)
-2)Import and save
-3)Import from html file
-4)Select the html file
+Firefox import:<br>
+1)Bookmark Manager (CTRL+Shift+O)<br>
+2)Import and save<br>
+3)Import from html file<br>
+4)Select the html file<br>
 
-Edge import:
-1)Bookmark Manager (CTRL+Shift+O)
-2)Click three "dots"
-3)Import Bookmark from html file
-4)Select the html file
+Edge import:<br>
+1)Bookmark Manager (CTRL+Shift+O)<br>
+2)Click three "dots"<br>
+3)Import Bookmark from html file<br>
+4)Select the html file<br>
 
 
-v.1.0
+v.1.0 contents
         <DL><p>
             <DT><A HREF="https://www.office.com/apps?" ADD_DATE="1641478625" LAST_MODIFIED="1641478999">M365 User Portal (All Apps)</A>
             <DT><A HREF="https://admin.microsoft.com/" ADD_DATE="1641477479" LAST_MODIFIED="1641477895">M365 Admin Portal</A>
