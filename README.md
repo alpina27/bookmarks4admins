@@ -1,7 +1,7 @@
-### <H1>bookmarks4admins</H1>
-useful bookmarks for admins<br>
+<H1>bookmarks4admins</H1>
+Useful bookmarks for admins<br>
 
-##Microsoft 365 Bookmarks<br>
+<H2>Microsoft 365 Bookmarks<br></H2>
 
 
 ![grafik](https://user-images.githubusercontent.com/12609953/148400775-c63863a2-7efd-43b3-b72d-db12fbf019e4.png)
@@ -46,7 +46,7 @@ v.1.0 contents
 
 
 
-##Microsoft Azure Bookmarks
+<H2>Microsoft Azure Bookmarks</H2>
 
 <img width="897" height="285" alt="image" src="https://github.com/user-attachments/assets/02c9ee7c-54a8-4b4a-a826-20b12d9d96c6" />
 
